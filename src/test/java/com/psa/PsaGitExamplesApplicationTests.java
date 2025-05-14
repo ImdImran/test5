@@ -8,6 +8,7 @@ class PsaGitExamplesApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int x = 100;
 	}
 
 }
